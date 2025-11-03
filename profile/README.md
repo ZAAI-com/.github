@@ -9,9 +9,10 @@
 
 ## Selected Projects
 
-| Name | Type | Download | Source | Description | Created |
+| Name | Type | Download | Source Code | Description | Created |
 |:-----:|:---:|:---:|:---:|:---:|:---:|
-| **PowerNight** | Docker | [Docker Hub](https://hub.docker.com/r/zaaicom/powernight/) | [PowerNight](https://github.com/ZAAI-com/PowerNight/) | Schedule Tesla Powerwall Grid-Charging during the night | 2025 |
+| **BaitBreaker** | Chrome Extension | Soon | [BaitBreaker](https://github.com/ZAAI-com/BaitBreaker) | Fighting Clickbait | 2025-11 |
+| **PowerNight** | Docker | [Docker Hub](https://hub.docker.com/r/zaaicom/powernight/) | [PowerNight](https://github.com/ZAAI-com/PowerNight/) | Schedule Tesla Powerwall Grid-Charging during the night | 2025-10 |
 | **PowerBeat** | UI | [ZAAI.com](https://zaai.com/powerbeat/) | N/A | Home Energy Manager UI (Prototype WIP) | 2024 |
 | **Jekyll Roadmap** | RubyGem | [Fork Template](https://github.com/ZAAI-com/jekyll-roadmap-template) | [jekyll-roadmap](https://github.com/ZAAI-com/jekyll-roadmap) | Roadmap Gantt Chart Creator | 2019 |
 | **Jekyll FilePath** | RubyGem | [RubyGems.org](https://rubygems.org/gems/jekyll-filepath/) | [jekyll-filepath](https://github.com/ZAAI-com/jekyll-filepath) | File Management for Jekyll Blogs | 2015 |
